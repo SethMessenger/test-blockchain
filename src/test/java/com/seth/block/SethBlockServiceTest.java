@@ -1,9 +1,9 @@
 package com.seth.block;
 
 import com.alibaba.fastjson.JSON;
+import com.formal.blockchain.security.CryptoUtil;
 import com.seth.blockchain.model.SethBlock;
 import com.seth.blockchain.model.SethTransaction;
-import com.seth.blockchain.security.CryptoUtil;
 import org.junit.Before;
 import org.junit.Test;
 

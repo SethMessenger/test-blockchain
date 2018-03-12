@@ -1,4 +1,4 @@
-package com.seth.blockchain.security;
+package com.formal.blockchain.security;
 
 import java.security.Key;
 import java.security.KeyFactory;
@@ -20,7 +20,7 @@ import javax.crypto.Cipher;
  * RSA安全编码组件
  * 
  */
-public abstract class RSACoder extends com.seth.blockchain.security.Coder {
+public abstract class RSACoder extends Coder {
 	public static final String KEY_ALGORITHM = "RSA";
 	public static final String SIGNATURE_ALGORITHM = "MD5withRSA";
 
