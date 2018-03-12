@@ -1,8 +1,8 @@
-package com.seth.model;
+package com.seth.blockchain.model;
 
 /**
  * @author xunbo.xu
- * @desc    区块链交易对象
+ * @desc    区块链交易对象 TODO
  * @date 18/3/12
  */
 public class SethTransaction {
