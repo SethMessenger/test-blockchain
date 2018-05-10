@@ -3,9 +3,9 @@ package com.formal.block;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.formal.blockchain.model.Block;
-import com.formal.blockchain.model.Transaction;
-import com.formal.blockchain.security.CryptoUtil;
+import com.seth.formal.blockchain.model.Block;
+import com.seth.formal.blockchain.model.Transaction;
+import com.seth.formal.blockchain.security.CryptoUtil;
 import org.junit.Before;
 import org.junit.Test;
 

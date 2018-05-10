@@ -2,7 +2,7 @@ package com.formal.security;
 
 import static org.junit.Assert.*;
 
-import com.formal.blockchain.security.RSACoder;
+import com.seth.formal.blockchain.security.RSACoder;
 import org.junit.Before;
 import org.junit.Test;
 
