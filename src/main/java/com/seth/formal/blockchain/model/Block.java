@@ -1,4 +1,4 @@
-package com.formal.blockchain.model;
+package com.seth.formal.blockchain.model;
 
 import java.util.List;
 

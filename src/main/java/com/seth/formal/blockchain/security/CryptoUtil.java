@@ -1,4 +1,4 @@
-package com.formal.blockchain.security;
+package com.seth.formal.blockchain.security;
 
 import java.security.MessageDigest;
 import java.util.UUID;

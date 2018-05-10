@@ -1,4 +1,4 @@
-package com.seth.blockchain.model;
+package com.seth.test.blockchain.model;
 
 /**
  * @author xunbo.xu
