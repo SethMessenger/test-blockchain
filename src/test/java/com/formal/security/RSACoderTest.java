@@ -17,8 +17,10 @@ public class RSACoderTest {
 
 	@Before
 	public void setUp() throws Exception {
+		//使用JDK方式生成一对公私秘钥,使用RSA方式进行加密
 		Map<String, Object> keyMap = RSACoder.initKey();
 
+		//获取公私秘钥
 		publicKey = RSACoder.getPublicKey(keyMap);
 		privateKey = RSACoder.getPrivateKey(keyMap);
 		System.err.println("公钥: \n\r" + publicKey);
